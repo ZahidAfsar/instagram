@@ -9,7 +9,6 @@ export default function App() {
   return (
     <View style={styles.container}>
       <NavbarComponent/>
-      <StoriesComponent/>
       <PostComponet/>
       <FooterComponent/>
     </View>
